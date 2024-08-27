@@ -494,11 +494,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 #intro {
   width: 100%;  
   height: 100vh;
-<<<<<<< HEAD
   background: url("../img/background.jpg") no-repeat center center/cover;
-=======
-  background: url("assets/img/background.jpg") no-repeat center center/cover;
->>>>>>> a50e8f2ff5966f6052d68929ce8dd9b7dfe77604
   overflow: hidden;
   position: relative;
 }
