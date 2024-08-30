@@ -369,7 +369,7 @@ h1, h2{
 
 .nav-menu ul li:hover > a {
   background: #0a5822;
-  color: #0a5822;
+  color: #0a5822; 
 }
 
 .nav-menu ul ul {
@@ -393,7 +393,7 @@ h1, h2{
 }
 
 #mobile-nav-toggle i {
-  color: #0a5822;
+  color: white;
 }
 
 @media (max-width: 991px) {
@@ -409,7 +409,7 @@ h1, h2{
   padding-top: 18px;
   bottom: 0;
   z-index: 998;
-  background: #0a5822;
+  background: #0000009c;
   left: -260px;
   width: 260px;
   overflow-y: auto;
@@ -427,7 +427,7 @@ h1, h2{
 }
 
 #mobile-nav ul li a {
-  color: #0a5822;
+  color: white;
   font-size: 17px;
   overflow: hidden;
   padding: 10px 22px 10px 15px;
@@ -439,7 +439,7 @@ h1, h2{
 }
 
 #mobile-nav ul li a:hover {
-  color: #0a5822;
+  color: white;
 }
 
 #mobile-nav ul li li {
@@ -470,7 +470,7 @@ h1, h2{
   top: 0;
   left: 0;
   position: fixed;
-  background: #0a5822;
+  background: transparent;
   display: none;
 }
 
